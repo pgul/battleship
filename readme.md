@@ -1,4 +1,4 @@
-Count ships on field for battleship game
+Count ships on field for [battleship game](https://en.wikipedia.org/wiki/Battleship_(game))
 
 Input should be text file with exact 10 lines 10 characters length each.
 Space char means empty field, any oather character means ship.
